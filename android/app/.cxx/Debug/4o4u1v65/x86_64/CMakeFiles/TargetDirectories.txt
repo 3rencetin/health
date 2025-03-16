@@ -1,0 +1,2 @@
+C:/Users/Eren/Desktop/health_project/android/app/.cxx/Debug/4o4u1v65/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Eren/Desktop/health_project/android/app/.cxx/Debug/4o4u1v65/x86_64/CMakeFiles/rebuild_cache.dir

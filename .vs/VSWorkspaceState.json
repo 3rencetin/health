@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\.gradle",
+    "\\android\\.gradle\\kotlin\\errors",
+    "\\android\\.gradle\\kotlin\\sessions",
+    "\\android\\app\\src",
+    "\\android\\app\\src\\main",
+    "\\android\\app\\src\\main\\res\\drawable-v21",
+    "\\lib",
+    "\\lib\\core",
+    "\\lib\\core\\general_widgets"
+  ],
+  "SelectedNode": "\\lib\\main.dart",
+  "PreviewInSolutionExplorer": false
+}
